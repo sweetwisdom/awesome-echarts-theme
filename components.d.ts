@@ -4,14 +4,9 @@
 
 declare module 'vue' {
   export interface GlobalComponents {
-    ButtonOne: typeof import('./src/components/Global/ButtonOne.vue')['default']
-    ButtonTwo: typeof import('./src/components/Global/ButtonTwo.vue')['default']
+    Echart: typeof import('./src/components/Echart/index.vue')['default']
     ElButton: typeof import('element-ui/lib/button')['default']
-    ElCard: typeof import('element-ui/lib/card')['default']
-    ElMenu: typeof import('element-ui/lib/menu')['default']
-    ElMenuItem: typeof import('element-ui/lib/menu-item')['default']
-    ElTag: typeof import('element-ui/lib/tag')['default']
-    Navbar: typeof import('./src/components/Navbar.vue')['default']
+    ElButtonGroup: typeof import('element-ui/lib/button-group')['default']
   }
 }
 

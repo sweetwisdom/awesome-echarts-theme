@@ -15,6 +15,8 @@ import App from './App.vue'
 AddModules({ app: Vue, store, router })
 
 Vue.config.productionTip = false
+// 定义全局eventBus
+Vue.prototype.$eventBus = new Vue()
 new Vue({
   router,
   store,

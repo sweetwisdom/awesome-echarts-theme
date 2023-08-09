@@ -1,58 +1,42 @@
-# vite-vue2-typescript
-
-Vite Vue2 typescript starter template using composition-api with Script Setup!
-
-## Features
-
-- 🗂 [File based routing](./src/pages)
-
-- 📦 [Global Components auto importing](./src/components/Global)
-
-- 📑 [Layout system](./src/layouts)
-
-- 😃 [Script Setup](https://github.com/antfu/vue2-script-setup-transform)
-
-- 🎨 [Commitlint](./husky)
-
-- 🔥 TypeScript, of course
-
-### Plugins
-
-- [`vue/compositon-api`](https://github.com/vuejs/composition-api) Composition API plugin for Vue 2
-
-- [`VueUse`](https://github.com/antfu/vueuse) - collection of useful composition APIs
-
-- [`vite-plugin-pages`](https://github.com/hannoeru/vite-plugin-pages) - file system based
-  routing
-
-- [`vite-plugin-vue-layouts`](https://github.com/anncwb/vite-plugin-style-import) Vue layout plugin for Vite
-
-- [`vite-plugin-style-import`](https://github.com/anncwb/vite-plugin-style-import) A plug-in
-  that imports component library styles on demand
-
-- [`vue2-helper`](https://github.com/ambit-tsai/vue2-helpers) - A util package to use Vue 2 with Composition API easily
+# awesome-echarts-theme🪄
 
 
-## Usage
 
-### Development
+> 前言：
+>
+> 开发了一段时间echats,参照官方主题构建工具，模仿互联网大厂设计了几个好看的echats主题，可以在githubpage查看使用效果。
+>
+> ·开发推荐使用pnpm,node版本需要在`v14.18.0`
+>
+> ·这套也是我自己搭建的：[使用vite+vue2 + element-ui的模板](https://github.com/sweetwisdom/vite-vue2-typescript-el)，欢迎star⭐
+>
+> ·开发请修改`src\components\Echart\theme` 下的json文件，并在echarts组件引用
+>
+> 
 
-Just run and visit http://localhost:3003
+## 参考
 
-```bash
-yarn dev
-```
+[主题编辑器 - Apache ECharts](https://echarts.apache.org/zh/theme-builder.html)
 
-## Commit lint
+[Apache ECharts](https://echarts.apache.org/zh/index.html)
 
-This repo use `commitizen` , if run `git cz` has no effect, you might need to install commitizen global as `yarn add global commitizen` or `npm i -g commitizen`
+[Vite | 下一代的前端工具链 (vitejs.cn)](https://vitejs.cn/vite3-cn/)
 
-then use `git cz` to add commit information.
+## Preview
 
-At lint staged it will trigger eslint auto fix and use `pretty-quick` to format files.
+![localhost_3003_ (1)](https://gitee.com/ponyjie/mySou/raw/master/2023/08/upgit_20230808_1691499619.png)
 
-And enjoy!
+### wechat（微信）
+![image-20230808204628542](https://gitee.com/ponyjie/mySou/raw/master/2023/08/upgit_20230808_1691498789.png)
 
-### Thanks
 
-- [vitesse](https://github.com/antfu/vitesse) Opinionated Vite Starter Template
+### default(多巴胺)
+![image-20230808204738627](https://gitee.com/ponyjie/mySou/raw/master/2023/08/upgit_20230808_1691498858.png)
+
+### alibab（阿里巴巴）
+
+![image-20230808204820106](https://gitee.com/ponyjie/mySou/raw/master/2023/08/upgit_20230808_1691498900.png)
+
+### dark(暗色模式)
+
+![image-20230808204852681](https://gitee.com/ponyjie/mySou/raw/master/2023/08/upgit_20230808_1691498971.png)

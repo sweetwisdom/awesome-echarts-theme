@@ -14,6 +14,7 @@
     "clipboard": "^2.0.11",
     "core-js": "^3.11.1",
     "element-ui": "^2.15.5",
+    "throttle-debounce": "^5.0.0",
     "vue": "^2.7.0",
     "vue-router": "^3.5.1",
     "vue2-helpers": "~1.1.7",
@@ -39,6 +40,7 @@
     "prettier": "^2.2.1",
     "pretty-quick": "^3.1.1",
     "sass": "^1.51.0",
+    "terser": "^5.18.2",
     "typescript": "^4.3.5",
     "unplugin-vue-components": "0.17.11",
     "unplugin-vue2-script-setup": "^0.4.2",
@@ -58,8 +60,6 @@
       "pretty-quick --staged --ignore-path .gitignore"
     ]
   },
- 
-  
   "vite": {
     "optimizeDeps": {
       "include": [

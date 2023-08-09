@@ -64,7 +64,7 @@ export default defineConfig({
     },
   },
   build: {
-    outDir: 'auto-ai', //指定输出路径
+    outDir: 'dist', //指定输出路径
     target: 'es2015',
     minify: 'terser', // 是否进行压缩,boolean | 'terser' | 'esbuild',默认使用terser
     manifest: false, // 是否产出maifest.json
