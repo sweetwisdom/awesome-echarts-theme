@@ -23,11 +23,13 @@
 
 ## Preview
 
-![localhost_3003_ (1)](https://gitee.com/ponyjie/mySou/raw/master/2023/08/upgit_20230808_1691499619.png)
+[awesome-echarts-theme 🪄 (GithubPages)](https://sweetwisdom.github.io/awesome-echarts-theme/dist/#/)
+
+<img src="https://gitee.com/ponyjie/mySou/raw/master/2023/08/upgit_20230808_1691499619.png" alt="localhost_3003_ (1)" />
 
 ### wechat
 
-![image-20230808204628542](https://gitee.com/ponyjie/mySou/raw/master/2023/08/upgit_20230808_1691498789.png)
+<img src="https://gitee.com/ponyjie/mySou/raw/master/2023/08/upgit_20230808_1691498789.png" alt="image-20230808204628542" />
 
 ### default
 
@@ -35,8 +37,8 @@
 
 ### alibab
 
-![image-20230808204820106](https://gitee.com/ponyjie/mySou/raw/master/2023/08/upgit_20230808_1691498900.png)
+<img src="https://gitee.com/ponyjie/mySou/raw/master/2023/08/upgit_20230808_1691498900.png" alt="image-20230808204820106" />
 
 ### dark
 
-![image-20230808204852681](https://gitee.com/ponyjie/mySou/raw/master/2023/08/upgit_20230808_1691498971.png)
+<img src="https://gitee.com/ponyjie/mySou/raw/master/2023/08/upgit_20230808_1691498971.png" alt="image-20230808204852681" />
