@@ -24,6 +24,10 @@
 
 ## Preview
 
+
+
+[awesome-echarts-theme 🪄 (GithubPages)](https://sweetwisdom.github.io/awesome-echarts-theme/dist/#/)
+
 ![localhost_3003_ (1)](https://gitee.com/ponyjie/mySou/raw/master/2023/08/upgit_20230808_1691499619.png)
 
 ### wechat（微信）
